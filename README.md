@@ -28,5 +28,5 @@ A Python-based tool that securely fetches Gmail emails and translates them into 
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Venkat-sai-badavathu/email_translator.git
-   cd ai-email-translator
+   cd email_translator
    ```
