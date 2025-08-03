@@ -1,0 +1,26 @@
+# OAuth credentials
+credentials.json
+token.pickle
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyd
+*.pyo
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs and cache
+*.log
+.cache/
+
+# Hugging Face model cache (if used)
+.huggingface/
